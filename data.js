@@ -1,4 +1,4 @@
-data=[
+[
     {
         ".date": "2020-11-07",
         ".event": "Type.ML_UFC Vegas 13 Luiz Garagorri vs. Darren Elkins",
