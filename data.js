@@ -1,9 +1,9 @@
 [
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Luiz Garagorri vs. Darren Elkins",
-        ".fav_name": "Darren Elkins",
-        ".und_name": "Luiz Garagorri",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Luiz Garagorri vs. Darren Elkins",
+        "_fav_name": "Darren Elkins",
+        "_und_name": "Luiz Garagorri",
         "0ML_A*": "0.5",
         "0ML_A_e": "0.61",
         "0ML_B*": "0.5",
@@ -50,10 +50,10 @@
         "8TKO_UND_PRO_S": "pass 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Glover Teixeira vs. Thiago Santos",
-        ".fav_name": "Thiago Santos",
-        ".und_name": "Glover Teixeira",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Glover Teixeira vs. Thiago Santos",
+        "_fav_name": "Thiago Santos",
+        "_und_name": "Glover Teixeira",
         "0ML_A*": "0.54",
         "0ML_A_e": "0.65",
         "0ML_B*": "0.46",
@@ -100,10 +100,10 @@
         "8TKO_UND_PRO_S": "pass 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Andrei Arlovski vs. Tanner Boser",
-        ".fav_name": "Tanner Boser",
-        ".und_name": "Andrei Arlovski",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Andrei Arlovski vs. Tanner Boser",
+        "_fav_name": "Tanner Boser",
+        "_und_name": "Andrei Arlovski",
         "0ML_A*": "0.74",
         "0ML_A_e": "0.71",
         "0ML_B*": "0.26",
@@ -150,10 +150,10 @@
         "8TKO_UND_PRO_S": "pass 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Claudia Gadelha vs. Yan Xiaonan",
-        ".fav_name": "Yan Xiaonan",
-        ".und_name": "Claudia Gadelha",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Claudia Gadelha vs. Yan Xiaonan",
+        "_fav_name": "Yan Xiaonan",
+        "_und_name": "Claudia Gadelha",
         "0ML_A*": "0.47",
         "0ML_A_e": "0.53",
         "0ML_B*": "0.53",
@@ -200,10 +200,10 @@
         "8TKO_UND_PRO_S": ">GO 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Trevin Giles vs. Bevon Lewis",
-        ".fav_name": "Bevon Lewis",
-        ".und_name": "Trevin Giles",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Trevin Giles vs. Bevon Lewis",
+        "_fav_name": "Bevon Lewis",
+        "_und_name": "Trevin Giles",
         "0ML_A*": "0.34",
         "0ML_A_e": "0.47",
         "0ML_B*": "0.66",
@@ -250,10 +250,10 @@
         "8TKO_UND_PRO_S": "pass 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Ian Heinisch vs. Brendan Allen",
-        ".fav_name": "Ian Heinisch",
-        ".und_name": "Brendan Allen",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Ian Heinisch vs. Brendan Allen",
+        "_fav_name": "Ian Heinisch",
+        "_und_name": "Brendan Allen",
         "0ML_A*": "0.42",
         "0ML_A_e": "0.49",
         "0ML_B*": "0.58",
@@ -300,10 +300,10 @@
         "8TKO_UND_PRO_S": "pass 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Raoni Barcelos vs. Khalid Taha",
-        ".fav_name": "Raoni Barcelos",
-        ".und_name": "Khalid Taha",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Raoni Barcelos vs. Khalid Taha",
+        "_fav_name": "Raoni Barcelos",
+        "_und_name": "Khalid Taha",
         "0ML_A*": "0.49",
         "0ML_A_e": "0.69",
         "0ML_B*": "0.51",
@@ -350,10 +350,10 @@
         "8TKO_UND_PRO_S": ">GO 1"
     },
     {
-        ".date": "2020-11-07",
-        ".event": "Type.ML_UFC Vegas 13 Brendan Allen vs. Ian Heinisch",
-        ".fav_name": "Brendan Allen",
-        ".und_name": "Ian Heinisch",
+        "_date": "2020-11-07",
+        "_event": "Type.ML_UFC Vegas 13 Brendan Allen vs. Ian Heinisch",
+        "_fav_name": "Brendan Allen",
+        "_und_name": "Ian Heinisch",
         "0ML_A*": "0.58",
         "0ML_A_e": "0.51",
         "0ML_B*": "0.42",
